@@ -129,7 +129,7 @@ See also: the [vanilla-hcaptcha](https://github.com/hCaptcha/vanilla-hcaptcha) W
 [hCaptcha Component Library for Vue.js](https://github.com/hCaptcha/vue-hcaptcha)
 
 #### SolidJS
-[hCaptcha Component Library for Solid](https://github.com/Vexcited/solid-hcaptcha)
+[hCaptcha Component Library for Solid](https://app.radicle.xyz/nodes/seed.vexcited.com/rad:z2cHaq9kkFDHxqEfynfQsEZA7FN2C/tree/package/README.md)
 
 ## Backend
 
